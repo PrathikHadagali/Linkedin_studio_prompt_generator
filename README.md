@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-
 # Agentic LinkedIn Studio — Groq Edition
 
 Gemini/OpenAI-free Streamlit application for real-time Agentic AI research and LinkedIn content generation.
